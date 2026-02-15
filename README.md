@@ -1,4 +1,4 @@
-# eStocks
+# Stocks
 
 Aplicativo simples de controle de estoque desenvolvido em Flutter.
 
